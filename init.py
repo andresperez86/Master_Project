@@ -1,6 +1,6 @@
 proyect_id = 'Master_Project'
 github_repo = 'andresperez86/%s'%proyect_id 
-zip_file_url="https://github.com/%s/archive/master.zip"%github_repo
+zip_file_url="https://github.com/%s/archive/main.zip"%github_repo
 
 def get_last_modif_date(localdir):
     try:
